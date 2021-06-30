@@ -118,7 +118,7 @@ const controlAddRecipie = async function (newRecipe) {
 };
 
 const newFeature = function () {
-  console.log('Welcome');
+  console.log('Welcome updated');
 };
 
 const init = function () {
